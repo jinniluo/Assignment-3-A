@@ -25,3 +25,5 @@ HINT: to randomize between circle and square, create a 'type' attribute and use 
 ## Draw the symbols
 
 Iterate through the array we created using its `.forEach()` method.
+
+
